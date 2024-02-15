@@ -1,6 +1,6 @@
 # Cryptocurrency Candle Downloader
 ## Overview
-The Cryptocurrency Candle Downloader is a Python-based tool designed to simplify the process of fetching historical candle data for various cryptocurrencies. Leveraging the powerful CCXT library, this script offers access to a wide range of exchanges, providing users with the flexibility to select their preferred source of data. The intuitive interface, built with tkinter and customtkinter, ensures a seamless user experience from start to finish.
+The "Download Candles Anytime" is a Python-based tool designed to simplify the process of fetching historical candle data for various cryptocurrencies. Leveraging the powerful CCXT library, this script offers access to a wide range of exchanges, providing users with the flexibility to select their preferred source of data. The intuitive interface, built with tkinter and customtkinter, ensures a seamless user experience from start to finish.
 
 ## Features
 - Wide Exchange Support: Utilizes CCXT to fetch data from a majority of cryptocurrency exchanges.
@@ -22,7 +22,7 @@ The Cryptocurrency Candle Downloader is a Python-based tool designed to simplify
 4) Review your selections and click the "Download" button to fetch the data. The script will download the candle data into a CSV file for your analysis.
 
 ## Contributing
-Contributions to the Cryptocurrency Candle Downloader are welcome! Whether it's submitting bugs, requesting features, or contributing code, your input is highly appreciated. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Contributions to the "Download Candles Anytime" are welcome! Whether it's submitting bugs, requesting features, or contributing code, your input is highly appreciated. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
