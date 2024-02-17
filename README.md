@@ -1,4 +1,5 @@
-# Cryptocurrency Candle Downloader
+# Download Candles Anytime
+#### From Centralized Exchanges For Cryptocurrencies
 ## Overview
 The "Download Candles Anytime" is a Python-based tool designed to simplify the process of fetching historical candle data for various cryptocurrencies. Leveraging the powerful CCXT library, this script offers access to a wide range of exchanges, providing users with the flexibility to select their preferred source of data. The intuitive interface, built with tkinter and customtkinter, ensures a seamless user experience from start to finish.
 
