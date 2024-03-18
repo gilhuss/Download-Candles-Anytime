@@ -30,4 +30,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 - Thanks to the CCXT team for their incredible library that made this tool possible.
-- Gratitude to the tkinter and customtkinter communities for providing the tools to build our GUI.
+- Gratitude to the tkinter and customtkinter communities for providing the tools to build this GUI.
